@@ -122,7 +122,7 @@ h1{
     break-before: column;
     } */
 
-/* .button {
+.button {
     background-color: #0c45d4;
     color: white;
     border: none;
@@ -194,7 +194,7 @@ h1{
     background-color: #0c45d4;
     }
 
-footer {
+/* footer {
     background-color: #030B1F;
     color: #fff;
     text-align: center;
