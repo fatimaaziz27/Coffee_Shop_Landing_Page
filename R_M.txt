@@ -1,0 +1,226 @@
+Semantic HTML (header, nav, main, section, footer)
+Flexbox
+CSS Grid (for menu and gallery)
+Media Queries
+CSS Variables (:root)
+Smooth hover effects
+Box shadows
+Border radius
+Transitions
+Background images
+Linear gradients
+Responsive navigation (without JavaScript if possible)
+Try to add these on your own:
+Sticky navbar
+Hero background image with a dark overlay
+Cards that lift slightly on hover
+Buttons with hover animations
+Smooth scrolling (scroll-behavior: smooth)
+Different section background colors
+Google Fonts
+Font Awesome icons
+Proper spacing using padding and margin
+A nice color palette instead of random colors
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Folder structure
+Coffee-Shop/
+│
+├── index.html
+├── style.css
+├── images/
+│   ├── hero.jpg
+│   ├── coffee1.jpg
+│   ├── coffee2.jpg
+│   ├── coffee3.jpg
+│   ├── coffee4.jpg
+│   ├── coffee5.jpg
+│   └── coffee6.jpg
+└── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Level 1 → Project 1: Coffee Shop Landing Page
+Project Name
+Brew Haven Coffee
+Goal
+Create a modern landing page for a local coffee shop.
+
+Sections
+1. Navbar
+Logo:
+ ☕ Brew Haven
+Menu
+Home
+About
+Menu
+Gallery
+Contact
+Button:
+ Order Now
+
+2. Hero Section
+Heading
+Fresh Coffee. Fresh Start.
+Paragraph
+Every cup tells a story. Experience handcrafted coffee made from carefully selected beans and served with passion.
+Buttons
+Explore Menu
+Visit Us
+Hero Image
+Large coffee cup image on the right.
+
+3. About Us
+Heading
+About Brew Haven
+Text
+Brew Haven is a neighborhood coffee shop dedicated to serving premium coffee, delicious pastries, and a warm atmosphere. Whether you're meeting friends, working remotely, or enjoying a quiet morning, we have the perfect cup waiting for you.
+
+4. Why Choose Us
+Create 4 cards.
+Card 1
+Fresh Coffee
+Daily roasted beans for the richest flavor.
+
+Card 2
+Cozy Atmosphere
+Comfortable seating and relaxing music.
+
+Card 3
+Fast Service
+Fresh coffee served quickly by experienced baristas.
+
+Card 4
+Free Wi-Fi
+Work, study, or browse while enjoying your drink.
+
+5. Our Menu
+Create cards.
+Espresso
+Rich espresso with intense flavor.
+$3.50
+
+Cappuccino
+Smooth espresso with steamed milk foam.
+$4.50
+
+Latte
+Creamy milk blended with premium espresso.
+$5.00
+
+Mocha
+Chocolate, espresso, and steamed milk.
+$5.50
+
+Iced Coffee
+Cold brewed coffee served over ice.
+$4.00
+
+Blueberry Muffin
+Freshly baked every morning.
+$2.50
+
+6. Gallery
+Create a responsive image grid.
+Use placeholder images of:
+Coffee cup
+Coffee beans
+Cafe interior
+Pastries
+Latte art
+Espresso machine
+
+7. Customer Reviews
+Emily
+★★★★★
+"The best coffee I've ever had. Friendly staff and cozy atmosphere."
+
+Michael
+★★★★★
+"My favorite place to work while enjoying an amazing latte."
+
+Sophia
+★★★★★
+"Beautiful interior and delicious pastries."
+
+8. Opening Hours
+Monday – Friday
+7:00 AM – 8:00 PM
+Saturday
+8:00 AM – 10:00 PM
+Sunday
+8:00 AM – 6:00 PM
+
+9. Contact
+Address
+123 Coffee Street
+Downtown
+Phone
++1 (555) 123-4567
+Email
+hello@brewhaven.com
+
+10. Footer
+Brew Haven Coffee
+Freshly brewed happiness every day.
+Links
+Facebook
+Instagram
+Twitter
+Copyright
+© 2026 Brew Haven Coffee. All Rights Reserved.
+
+HTML Concepts to Practice
+Semantic tags (header, nav, main, section, footer)
+Lists
+Images
+Buttons
+Headings
+Paragraphs
+Cards
+Forms (optional)
+CSS Concepts to Practice
+Flexbox
+CSS Grid
+Position
+Hover effects
+Box shadows
+Border radius
+Gradients
+Responsive design with media queries
+Transitions
+Challenge Rules
+Don't copy a template.
+Build the layout yourself.
+Make it responsive for mobile, tablet, and desktop.
+Use a consistent color palette.
+Add subtle hover animations.
+Keep the code clean and organized.
+After you finish this, I'll give you Project 2, which will introduce more advanced layouts (pricing tables, testimonials, and complex card designs). We'll progress through 20–30 projects, each teaching new HTML and CSS techniques used in real frontend development.
+
