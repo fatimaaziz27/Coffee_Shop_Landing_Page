@@ -88,22 +88,7 @@ Button:
 
 
 
-2. Hero Section
-Heading
-Fresh Coffee. Fresh Start.
-Paragraph
-Every cup tells a story. Experience handcrafted coffee made from carefully selected beans and served with passion.
-Buttons
-Explore Menu
-Visit Us
-Hero Image
-Large coffee cup image on the right.
 
-3. About Us
-Heading
-About Brew Haven
-Text
-Brew Haven is a neighborhood coffee shop dedicated to serving premium coffee, delicious pastries, and a warm atmosphere. Whether you're meeting friends, working remotely, or enjoying a quiet morning, we have the perfect cup waiting for you.
 
 4. Why Choose Us
 Create 4 cards.
