@@ -66,11 +66,6 @@ Coffee-Shop/
 
 
 
-Level 1 → Project 1: Coffee Shop Landing Page
-Project Name
-Brew Haven Coffee
-Goal
-Create a modern landing page for a local coffee shop.
 
 
 
@@ -100,6 +95,11 @@ $4.00
 Blueberry Muffin
 Freshly baked every morning.
 $2.50
+
+
+
+
+
 
 6. Gallery
 Create a responsive image grid.
