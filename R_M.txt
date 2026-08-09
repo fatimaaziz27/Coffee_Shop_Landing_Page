@@ -97,10 +97,6 @@ Freshly baked every morning.
 $2.50
 
 
-
-
-
-
 6. Gallery
 Create a responsive image grid.
 Use placeholder images of:
@@ -110,6 +106,8 @@ Cafe interior
 Pastries
 Latte art
 Espresso machine
+
+
 
 7. Customer Reviews
 Emily
@@ -123,6 +121,8 @@ Michael
 Sophia
 ★★★★★
 "Beautiful interior and delicious pastries."
+
+
 
 8. Opening Hours
 Monday – Friday
