@@ -72,41 +72,8 @@ Brew Haven Coffee
 Goal
 Create a modern landing page for a local coffee shop.
 
-Sections
-1. Navbar
-Logo:
- ☕ Brew Haven
-Menu
-Home
-About
-Menu
-Gallery
-Contact
-Button:
- Order Now
 
 
-
-
-
-
-4. Why Choose Us
-Create 4 cards.
-Card 1
-Fresh Coffee
-Daily roasted beans for the richest flavor.
-
-Card 2
-Cozy Atmosphere
-Comfortable seating and relaxing music.
-
-Card 3
-Fast Service
-Fresh coffee served quickly by experienced baristas.
-
-Card 4
-Free Wi-Fi
-Work, study, or browse while enjoying your drink.
 
 5. Our Menu
 Create cards.
