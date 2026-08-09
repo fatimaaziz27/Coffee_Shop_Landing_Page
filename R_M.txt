@@ -23,18 +23,6 @@ Proper spacing using padding and margin
 A nice color palette instead of random colors
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 Folder structure
 Coffee-Shop/
 │
@@ -49,26 +37,6 @@ Coffee-Shop/
 │   ├── coffee5.jpg
 │   └── coffee6.jpg
 └── README.md
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 5. Our Menu
 Create cards.
@@ -178,5 +146,3 @@ Make it responsive for mobile, tablet, and desktop.
 Use a consistent color palette.
 Add subtle hover animations.
 Keep the code clean and organized.
-After you finish this, I'll give you Project 2, which will introduce more advanced layouts (pricing tables, testimonials, and complex card designs). We'll progress through 20–30 projects, each teaching new HTML and CSS techniques used in real frontend development.
-
